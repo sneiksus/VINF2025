@@ -1,1 +1,1 @@
-"# VINF projekt 2025 (Databaza vyznamnych ludi)" 
+VINF projekt 2025 (Databaza vyznamnych ludi)
